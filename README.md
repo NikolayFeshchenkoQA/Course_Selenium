@@ -1,4 +1,4 @@
-# Course_Selenium
+# NF_QA
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1FCl9ODxmaZsmVhSVuMXQpxnRJZCbRwKcQgi69H8uf-Q/edit#gid=306401338)
 
 ---
